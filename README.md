@@ -1,8 +1,10 @@
 # 초음파센서와 객체인식을 통한 몰컴 프로젝트
 <div>
-
-    <img src="video.mp4">
+    <img src="picture1.jpg" width="270 "height="300">
+    <img src="picture2.jpg" width="270 "height="300">
+    <img src="picture3.jpg" width="270 "height="300">
 </div>
+
 # 개발기간
 2023.04.24 ~ 2023.04.28
 
@@ -11,7 +13,7 @@
 
 # 개발환경
 Arduino IDE 2.1 라이브러리 버전
-VScode python
+VScode Python
 
 # 주요기능
 + 컴퓨터 모니터를 제어하는 3가지 모드가 있고 버튼을 눌러서 모드를 변경할 수 있다.
@@ -23,7 +25,7 @@ VScode python
 약 30시간
 
 # 데모
-![video](video.mp4)
+https://user-images.githubusercontent.com/129160008/235036656-0ab524e7-230e-4101-aa29-8532c26580d8.mp4
 
 # 알려진 이슈
 
