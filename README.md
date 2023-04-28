@@ -1,8 +1,8 @@
 # 초음파센서와 객체인식을 통한 몰컴 프로젝트
 <div>
-    <img src="picture1.jpg" width="300" height="300">
-    <img src="picture2.jpg" width="300" height="300">
-    <img src="picture3.jpg" width="300" height="300">
+    <img src="picture1.jpg" width="270" height="300">
+    <img src="picture2.jpg" width="270" height="300">
+    <img src="picture3.jpg" width="270" height="300">
 </div>
 
 # 개발기간
