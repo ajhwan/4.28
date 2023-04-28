@@ -15,7 +15,7 @@
 
 # 4. 개발환경
 + Arduino IDE 2.1 라이브러리 버전
-+ VScode Python
++ VScode Python, openCV
 
 # 5. 주요기능
 + 컴퓨터 모니터를 제어하는 3가지 모드가 있고 버튼을 눌러서 모드를 변경할 수 있다.
