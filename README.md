@@ -23,7 +23,7 @@
 # 주요코드
 + 키보드 제어를 위한 헤더파일
 
-    <img src="function.png" width="200" height="500">
+  ![head](https://user-images.githubusercontent.com/129160008/235062861-cd5156ca-600a-4bad-b7bb-cd09b83bcbec.PNG)
 
 # 작업시간
 약 30시간
