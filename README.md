@@ -25,6 +25,31 @@
 
   ![head](https://user-images.githubusercontent.com/129160008/235062861-cd5156ca-600a-4bad-b7bb-cd09b83bcbec.PNG)
 
+
++ 모드를 바꾸기 위한 버튼 기능
+    + 버튼을 누를 때마다 바뀌게 하려고 했지만 버튼이 2번눌리는 현상이 생겨서 HIGH에서 LOW가 될 때 모드를 바꾸는 것으로 변경
+
+  ![button](https://user-images.githubusercontent.com/129160008/235062987-a32069da-38d7-4b46-ad07-7432d68b2741.PNG)
+  
+  
++ 3가지 모드에 대한 기능
+    + 초기모드 : 윈도우 키+'D'를 사용한 바탕화면 보이기
+    + 1버튼모드 : Alt+Tab 기능
+    + 2버튼모드 : 윈도우 키+'X'+'U'+'U'를 이용한 컴퓨터 종료
+  
+  ![function](https://user-images.githubusercontent.com/129160008/235062995-ae3e482e-3e19-4c2b-bd13-76b2a2537dd1.PNG)
+  
+  
++ 컴퓨터와 시리얼 통신을 하기 위한 코드
+  
+  ![serial1](https://user-images.githubusercontent.com/129160008/235063006-64ad67da-b166-4cbb-b21b-9830acf215a0.PNG)
+  
+  
++ 얼굴이 감지된 뒤 신호를 보내기 위한 코드  
+  
+  ![serial2](https://user-images.githubusercontent.com/129160008/235063023-db060f3f-3615-4f63-9a8d-98e9d7b79338.PNG)
+
+
 # 작업시간
 약 30시간
 
@@ -34,5 +59,5 @@ https://user-images.githubusercontent.com/129160008/235036656-0ab524e7-230e-4101
 # 알려진 이슈
 https://user-images.githubusercontent.com/129160008/235045723-aee8d609-1c09-4a5d-b065-e160a56d4ba4.mp4
 + 카메라와 아두이노 사이의 통신 딜레이가 생겨서 반응이 느리다.
-+ 카메라에 얼굴이 인식되고 센서에도 인식이 되면 카메라에 얼굴이 인식되는 동안 같은 행동을 반복한다
++ 센서에도 인식되고 카메라에 얼굴이 인식되면 카메라에 얼굴이 인식되는 동안 같은 행동을 반복한다.(카메라에 인식되지 않아야 동작 멈춤)
     + 따라서 두가지 모드 보다 컴퓨터가 꺼지는 모드를 사용하는 것이 가장 유용하다고 판단된다.
