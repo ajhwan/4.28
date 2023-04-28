@@ -1,8 +1,8 @@
 # 초음파센서와 객체인식을 통한 몰컴 프로젝트
 <div>
-    <img src="picture1.jpg" width="270 "height="300">
-    <img src="picture2.jpg" width="270 "height="300">
-    <img src="picture3.jpg" width="270 "height="300">
+    <img src="picture1.jpg" width="300" height="300">
+    <img src="picture2.jpg" width="300" height="300">
+    <img src="picture3.jpg" width="300" height="300">
 </div>
 
 # 개발기간
@@ -21,7 +21,9 @@
   + 버튼을 한 번 눌렀을 시 : ALT+TAP 기능을 한다.
   + 버튼을 두 번 눌렀을 시 : 컴퓨터를 종료 시키는 기능을 한다.
 # 주요코드
++ 키보드 제어를 위한 헤더파일
 
+    <img src="function.png" width="200" height="500">
 
 # 작업시간
 약 30시간
