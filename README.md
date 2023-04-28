@@ -28,4 +28,7 @@ VScode Python
 https://user-images.githubusercontent.com/129160008/235036656-0ab524e7-230e-4101-aa29-8532c26580d8.mp4
 
 # 알려진 이슈
-
+https://user-images.githubusercontent.com/129160008/235045723-aee8d609-1c09-4a5d-b065-e160a56d4ba4.mp4
++ 카메라를 이용한 시리얼 통신에 딜레이가 생겨서 반응이 느리다.
++ 카메라에 얼굴이 인식되고 센서에도 인식이 되면 카메라에 얼굴이 인식되는 동안 같은 행동을 반복한다
+    + 따라서 두가지 모드 보다 컴퓨터가 꺼지는 모드를 사용하는 것이 가장 유용하다고 판단된다.
