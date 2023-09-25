@@ -52,6 +52,9 @@
 
 # 7. 데모
 https://user-images.githubusercontent.com/129160008/235036656-0ab524e7-230e-4101-aa29-8532c26580d8.mp4
+1.기본 버전으로 바탕화면을 보이는 모드
+2.버튼을 한 번 눌렀을 때 모드로 ALT+TAB 기능을 하는 모드
+3.버튼을 두 번 눌렀을 때 모드로 컴퓨터를 종료시키는 모드
 
 # 8. 알려진 이슈
 https://user-images.githubusercontent.com/129160008/235045723-aee8d609-1c09-4a5d-b065-e160a56d4ba4.mp4
