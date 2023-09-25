@@ -1,9 +1,16 @@
 # 1. 초음파센서와 객체인식을 통한 몰컴 프로젝트
 <div>
     <img src="picture1.jpg" width="270" height="300">
-    <img src="picture2.jpg" width="270" height="300">
-    <img src="picture3.jpg" width="270" height="300">
+    
+    - 바탕화면 보이게 하는 버전(기본 모드)
 </div>
+    <img src="picture2.jpg" width="270" height="300">
+
+    - ALT+TAB 버전(한 개의 LED 점등)
+</div>    
+    <img src="picture3.jpg" width="270" height="300">
+
+    - 강제 종료 시키는 버전(두 개의 LED 점등)
 
 # 2. 개발기간
 2023.04.24 ~ 2023.04.26
